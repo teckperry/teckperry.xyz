@@ -1,7 +1,7 @@
 ---
 author: "teckperry"
 title: "Sulle strade di Azeroth"
-date: "2020-10-08"
+date: "2020-10-20"
 description: "Il mio primo approccio a World of Warcraft"
 slug: "sulle-strade-di-azeroth"
 tags: [ "blog", "world-of-warcraft", "videogames", "teckperry" ]
@@ -43,8 +43,5 @@ La lunga attesa (*anche nei videogiochi, è incredibile...*) sembrava confermare
 Le parole dei due cavalieri ci misero un po' di ansia, ma l'assurda descrizione dei nostri nemici scatenò in noi un'enorme voglia di lottare. I due cavalieri ci dissero che in questo mondo combattere da soli porterebbe ad una totale disfatta e ci raccontarono qualcosa in più sul loro passato. Facevano parte di una compagnia di eroi chiamata "Gilda", ovvero un insieme di persone, tutte facenti parte della stessa fazione, che si uniscono per la lotta alla fazione opposta in modo da coordinarsi e combattere insieme. Ci dichiararono meritevoli, per il coraggio dimostrato in precedenza, di entrare a far parte della loro gilda, proponendoci un contratto che firmammo istantaneamente. L'accoglienza, fu meravigliosa.
 
 Quella che sembrava una ferrovia era esattamente ciò che appariva. Dopo pochi secondi dal nostro arrivo, senza timbrare un biglietto elettronico ne guardare gli orari su applicazioni improbabili per smartphone, arrivò una carrozza sulla quale salirono i nostri nuovi compagni di gilda. Presi dall'euforia di un elemento scenico così vicino alla contemporaneità, li seguimmo verso una nuova città: Stormwind, la capitale umana, nonchè verso un mondo a noi sconosciuto. Un mondo formato da magia bianca e oscura, elementi della natura, bestie mitologiche, elfi, orchi, troll e tantissime altre avventure da affrontare, insieme alla nostra nuova compagnia formata da amici e, oggi, fratelli.
-
-##
-Ogni due anni il gioco veniva aggiornato 
 
 Un'avventura, per me, durata quasi **dieci** anni e che tutt'ora, ad ogni nuova espansione, continua per qualche mese. (*abbandonammo poi l'Alleanza dopo pochi giorni per unirci all'Orda, scusate.*).

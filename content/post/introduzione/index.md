@@ -5,7 +5,6 @@ date: "2020-10-08"
 description: "Listen to my story, this may be our last chance."
 slug: "benvenuto-su-teckperry"
 tags: [ "blog", "hello-world", "videogames", "teckperry" ]
-image: "thumbnail.jpg"
 ---
 
 Se stai leggendo questo articolo probabilmente è perchè mi hai scoperto per caso nello strano mondo del web. Ti ringrazio per il tempo che mi dedicherai, ti assicuro che non sarà troppo. Se hai voglia posso lasciarti entrare nel **mio mondo**.
@@ -47,7 +46,7 @@ Mio fratello aveva ormai una pletora di videogiochi abbastanza estesa e sicurame
 Il quarto gioco di questa lista, invece, fu **The Sims**. C'era un vicino di casa dell'età di mio fratello che un giorno ci prestò questo strano gioco in cui era possibile creare una famiglia e seguire la loro vita a trecentosessantagradi dall'andare in bagno all'andare a lavoro. Dopo averlo installato me ne innamorai subito. Potevo costruire una casa, far vivere dei personaggi in quel luogo, arredarla come preferivo, togliere la scala dopo che si tuffavano in piscina, eliminare le porte dopo che entravano in una stanza. Questo gioco mi toccò molto per la sua libertà, dava spazio alla mia creatività e mi permetteva di esprimermi e costruire una mia personalissima idea di estetica. (*l'amico di mio fratello ci aveva anche promesso di portarci le espansioni e mio fratello fece l'errore di dirmelo. Diventai assillante. Non le ricevemmo mai.*)
 
 ## Verdeacqua
-> Per non interrompere il flusso della mia evoluzione videoludica ho deciso di suddividere questo articolo in tre differneti argomenti. Quella che potrai trovare nel link successivo è la seconda parte dell'articolo in cui racconto il mio primo approccio con uno dei giochi più importanti della mia vita da videogiocatore. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Kanto, collegati qui: *Sulle strade di Kanto*
+> Per non interrompere il flusso della mia evoluzione videoludica ho deciso di suddividere questo articolo in tre differenti argomenti. Quella che potrai trovare nel link successivo è la seconda parte dell'articolo in cui racconto il mio primo approccio con uno dei giochi più importanti della mia vita da videogiocatore. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Kanto, collegati qui: *Sulle strade di Kanto*
 
 ## La consapevolezza
 Attorno a me il mondo andava avanti anche se io rimanevo fortemente indietro. In casa arrivò, dopo diverso tempo dalla sua uscita, una PlayStation 2 *fat* nera. Nonostante mio fratello si fosse leggermente distaccato dalla strada dei videogiochi per lasciare spazio alle nuove leve, l'avvento della *next-generation* lo fece tornare sui suoi passi e io diventai nuovamente il piccolo di casa. Questa console non era direttamente alla mia portata e le mie personalissime ore di gioco calarono drasticamente. (*poco male, stavo ancora cercando di fare uscire Mew da sotto il camion*). La televisione era una sola e, nella logica dei genitori dell'epoca, se tu guardavi qualcuno giocare era come giocare (*mamma, papà, perchè?!*). Tornai ad essere uno spettatore (*la cui massima aspirazione su una console con quelle potenzialità era di ruotare il logo PlayStation sul lettore DVD e capire quale oggetto nuovo nascondere nel cassettino retrostante*) e oggi, a distanza di molti anni, posso dire con fermezza che mai scelta più giusta fu fatta, perchè forse questo fu il momento della mia crescita videoludica.
@@ -95,9 +94,9 @@ Ebbene sappi, caro amico mio, se mai leggerai questo articolo, che non l'ho mai 
 
 ## Sulle strade di Azeroth
 
-> Questa è la terza parte dell'articolo in cui racconto il mio primo approccio a questo fantastico gioco. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Azeroth, collegati qui *Sulle strade di Azeroth*
+> Questa è la terza parte dell'articolo in cui racconto il mio primo approccio a questo fantastico gioco. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Azeroth, collegati qui: *Sulle strade di Azeroth*
 
-## 
+## La crescita tecnica
 
 Passò il tempo e la mia passione per l'informatica crebbe a dismisura. Attorno alla seconda media capii che i server di World of Warcraft in cui giocavamo possedevano degli amministratori ai quali non importava assolutamente di noi. Il loro unico scopo era quello di disturbare la nostra personalissima avventura. Decisi quindi di fondarne uno mio. Installai Navicat e costruii il mio primo database. Misi in piedi un server e invitai tutti i miei amici a giocare insieme a me (*seguii dei tutorial online*). Questa cosa non piacque molto a mio padre perchè la nostra connessione ed il nostro router non erano così prestanti come oggi. Alla quinta persona connessa tutto crollò insieme alla mia speranza di essere il nuovo founder del server di WoW più famoso d'Italia.
 
@@ -107,7 +106,7 @@ Arrivato nella scelta delle scuole superiori decisi di intraprendere una carrier
 
 Ebbene, conclusa la carriera scolastica scoprii che in realtà il massimo a cui ero riuscito ad arrivare era la costruizione di fantastici siti web. Per carità, non è poco, è un lavoro onesto, però le mie aspettative erano tutt’altre.
 
-Decisi quindi di intraprendere la carriera universitaria sempre nello stesso ambito, arrivando a laurearmi a dispetto di tutti quelli che non avrebbero scommesso un singolo scellino sul mio lavoro (e vi assicuro che erano tanti). La carriera accademica intrapresa doveva aiutarmi, nella mia visione, ad entrare per via direttissima in una di quelle fantomatiche software houses che tanto amavo, come Blizzard ad esempio. 
+Decisi quindi di intraprendere la carriera universitaria sempre nello stesso ambito, arrivando a laurearmi a dispetto di tutti quelli che non avrebbero scommesso un singolo scellino sul mio lavoro (e vi assicuro che erano tanti vista la mia esperienza pregressa). La carriera accademica intrapresa doveva aiutarmi, nella mia visione, ad entrare per via direttissima in una di quelle fantomatiche software houses che tanto amavo, come Blizzard ad esempio. 
 
 Col tempo però ho cambiato idea. Nonostante le mie conoscenze mi permettessero a quel punto di lanciarmi nell’approfondimento dell’ambito del *game developing*, mi resi conto che non era realmente ciò che mi interessava nei videogiochi. Ciò che più apprezzo è in realtà **il vivere l’esperienza videoludica**. L’aspetto mentale, quello cognitivo, quello emotivo. Insomma, l’aspetto umano.
 
@@ -119,14 +118,12 @@ Per onestà intellettuale, e per informarvi nel caso in cui non li conosceste, �
 
 2. Sabaku no Maiku, uno dei divulgatori che più mi ha ispirato con il suo lavoro ad intraprendere questa strada, in quanto è stato in grado indirettamente di insegnarmi che con la fatica, la dedizione, la passione e l'esperienza tutto si può fare, anche lasciare un lavoro che non ti soddisfa più
 
-3. Cydonia, Chiara e Francesco Pardini, elementi importanti della mia evoluzione videoludica degli ultimi anni che sono stati in grado di aiutarmi a distruggere la mia vergogna per la passione per i Pokémon all'età di 25 anni ed incrementarla tantissimo grazie al mondo del competitivo a cui mi sono approcciato da poco. Aggiungerei due parole per Cydonia che è stato in grado di insegnarmi che scrivere, studiare ed analizzare un videogioco non è per forza un qualcosa di personale ma può essere condiviso
+3. Cydonia, Chiara e Francesco Pardini, elementi importanti della mia evoluzione videoludica degli ultimi anni che sono stati in grado di aiutarmi a distruggere la mia vergogna per la passione per i Pokémon all'età di 25 anni ed incrementarla tantissimo grazie al mondo competitivo a cui mi sono approcciato nell'ultimo periodo. Aggiungerei due parole per Cydonia che è stato in grado di insegnarmi che scrivere, studiare ed analizzare un videogioco non è per forza un qualcosa di personale ma può essere condiviso
 
-4. PlayerInside, Quei due sul Server, Parliamo di Videogiochi, Dadobax, Falconero: 
+4. PlayerInside, Quei due sul Server, Parliamo di Videogiochi, Dadobax, Falconero: un'altra serie di canali a cui devo tanto per avermi insegnato che esiste un modo diverso da quello convenzionale per trasmettere le proprie passioni 
 
 Superata una prima fase di riconoscimento di quelle che erano le mie reali passioni, decisi di costruirmi un’identità digitale durante la quarantena, che non ha bisogno di delucidazione in merito al periodo storico.
 
 Forse un po’ per noia, forse un po’ per facilità, creai il mio omonimo canale Twitch. Da quel momento è partito tutto.
 
 Benvenuti su Teckperry ragazzi, benvenuti nel mio mondo.
-
-Vi aspetto su Instagram, Youtube, Twitch, Spotify (in futuro) e su questo blog.
