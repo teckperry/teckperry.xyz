@@ -19,7 +19,10 @@
 				-->
 				<div class="site-description">
 					{{- if isset .Site.Params "subtitle" -}}
+					<!-- Teckperry's update 
 					<p class="site-subtitle">{{ .Site.Params.Subtitle | markdownify }}</p>
+					-->
+					<a href="http://letmegooglethat.com/?q=binary+ascii+translation" target="_blank" class="site-subtitle">{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}

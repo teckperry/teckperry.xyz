@@ -215,6 +215,13 @@ article .title {
 display: flex;
 justify-content: space-between;
 }
+.site-description a {
+  padding-top: 1em;
+  border: none;
+}
+.site-description ::selection {
+  background: none;
+}
 .site-subtitle {
   width: 100%;
   text-align: center;
