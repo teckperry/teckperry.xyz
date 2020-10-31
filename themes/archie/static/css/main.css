@@ -51,6 +51,7 @@ hr {
 }
 
 blockquote {
+  background: aliceblue;
   border-left: 3px solid var(--bordercl);
   color: #737373;
   margin: 0;
