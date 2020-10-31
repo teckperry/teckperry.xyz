@@ -30,6 +30,10 @@ p {
   line-height: 1.5;
 }
 
+.bolder {
+  font-weight: bold
+}
+
 hr {
   border: 0;
   border-top: 3px dotted var(--bordercl);
