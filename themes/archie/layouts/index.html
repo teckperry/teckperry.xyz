@@ -6,9 +6,20 @@
 			{{ partial "head.html" . }}
 			
 			<main class="list">
+				<!-- Teckperry's update
+				<figure class="site-avatar">
+					{{ $avatar := resources.Get (.) }}
+					{{ if $avatar }}
+						{{ $avatarResized := $avatar.Resize "300x300" }}
+						<img src="{{ $avatarResized.RelPermalink }}" width="{{ $avatarResized.Width }}"
+							height="{{ $avatarResized.Height }}" class="site-logo" loading="lazy" alt="Avatar">
+					{{ end }}
+					<span class="emoji">{{ $.Site.Params.sidebar.emoji }}</span>
+				</figure>
+				-->
 				<div class="site-description">
 					{{- if isset .Site.Params "subtitle" -}}
-					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
+					<p class="site-subtitle">{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}

@@ -1,10 +1,20 @@
 /* Markdown */
+/* Teckperry's update
 :root{
 --maincolor: red;
 --bordercl:rebeccapurple;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
 --darkMaincolor: #50fa7b;
+}
+*/
+/* Teckperry's update */
+:root{
+  --maincolor: #317a98;
+  --bordercl:#317a98;
+  --callouctcolor:#10262f;
+  --hovercolor:#317a98;
+  --darkMaincolor: #50fa7b;
 }
 html {
   color: #232333;
@@ -203,6 +213,10 @@ article .title {
 .site-description {
 display: flex;
 justify-content: space-between;
+}
+.site-subtitle {
+  width: 100%;
+  text-align: center;
 }
 .tags li::before{
   content: "🏷 ";
