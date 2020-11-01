@@ -46,9 +46,6 @@ Mio fratello aveva ormai una pletora di videogiochi abbastanza estesa e sicurame
 
 Il quarto gioco di questa lista, invece, fu **The Sims**. C'era un vicino di casa dell'età di mio fratello che un giorno ci prestò questo strano gioco in cui era possibile creare una famiglia e seguire la loro vita a trecentosessantagradi dall'andare in bagno all'andare a lavoro. Dopo averlo installato me ne innamorai subito. Potevo costruire una casa, far vivere dei personaggi in quel luogo, arredarla come preferivo, togliere la scala dopo che si tuffavano in piscina, eliminare le porte dopo che entravano in una stanza. Questo gioco mi toccò molto per la sua libertà, dava spazio alla mia creatività e mi permetteva di esprimermi e costruire una mia personalissima idea di estetica. (*l'amico di mio fratello ci aveva anche promesso di portarci le espansioni e mio fratello fece l'errore di dirmelo. Diventai assillante. Non le ricevemmo mai.*)
 
-## Verdeacqua
-> Per non interrompere il flusso della mia evoluzione videoludica ho deciso di suddividere questo articolo in tre differenti argomenti. Quella che potrai trovare nel link successivo è la seconda parte dell'articolo in cui racconto il mio primo approccio con uno dei giochi più importanti della mia vita da videogiocatore. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Kanto, collegati qui: *[Sulle strade di Kanto](http://www.teckperry.xyz/posts/sulle-strade-di-kanto)*
-
 ## La consapevolezza
 Attorno a me il mondo andava avanti anche se io rimanevo fortemente indietro. In casa arrivò, dopo diverso tempo dalla sua uscita, una PlayStation 2 *fat* nera. Nonostante mio fratello si fosse leggermente distaccato dalla strada dei videogiochi per lasciare spazio alle nuove leve, l'avvento della *next-generation* lo fece tornare sui suoi passi e io diventai nuovamente il piccolo di casa. Questa console non era direttamente alla mia portata e le mie personalissime ore di gioco calarono drasticamente. (*poco male, stavo ancora cercando di fare uscire Mew da sotto il camion*). La televisione era una sola e, nella logica dei genitori dell'epoca, se tu guardavi qualcuno giocare era come giocare (*mamma, papà, perchè?!*). Tornai ad essere uno spettatore (*la cui massima aspirazione su una console con quelle potenzialità era di ruotare il logo PlayStation sul lettore DVD e capire quale oggetto nuovo nascondere nel cassettino retrostante*) e oggi, a distanza di molti anni, posso dire con fermezza che mai scelta più giusta fu fatta, perchè forse questo fu il momento della mia crescita videoludica.
 
@@ -78,6 +75,9 @@ Tutti sanno cos'è un forum oggi, ma per me a quei tempi, ragazzo inerme in trap
 
 Eccomi quindi approdato in luoghi di incontro e dialogo con persone completamente anonime (mascherate spesso da nickname improponibili, diciamocelo) da cui nacquero le mie passioni più importanti. Non ero solo più attratto dai videogiochi, ma dall'industria nella sua interezza: retroscena e racconti degli sviluppatori, software houses che facevano merenda con altre software houses più piccole, le follie di Kojima e Konami, le guerre a colpi di click tra le compagnie più in voga, le pazze pubblicità di Sony sulle sue PlayStation.
 
+## Verdeacqua
+> Per non interrompere il flusso della mia evoluzione videoludica ho deciso di suddividere questo articolo in tre differenti argomenti. Quella che potrai trovare nel link successivo è la seconda parte dell'articolo in cui racconto il mio primo approccio con uno dei giochi più importanti della mia vita da videogiocatore. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Kanto, collegati qui: [Sulle strade di Kanto]({{< ref "sulle-strade-di-kanto.md" >}})
+
 ## La menzogna
 Gli anni delle scuole elementari volarono come precedentemente descritti e, tra una serie di parallelepipedi rossi e una serie blu (*molti più rossi purtroppo, dannata Verbatim*), arrivai alle scuole medie. 
 
@@ -95,7 +95,7 @@ Ebbene sappi, caro amico mio, se mai leggerai questo articolo, che non l'ho mai 
 
 ## Sulle strade di Azeroth
 
-> Questa è la terza parte dell'articolo in cui racconto il mio primo approccio a questo fantastico gioco. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Azeroth, collegati qui: *[Sulle strade di Azeroth](http://www.teckperry.xyz/posts/sulle-strade-di-azeroth)*
+> Questa è la terza parte dell'articolo in cui racconto il mio primo approccio a questo fantastico gioco. Se hai voglia di riespolare insieme a me i miei primi passi nel mondo di Azeroth, collegati qui: **[Sulle strade di Azeroth]({{< ref "sulle-strade-di-azeroth.md" >}})**
 
 ## La crescita tecnica
 

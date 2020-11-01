@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello-world on Teckperry&#39;s Blog</title>
+    <link>http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/tags/hello-world/</link>
+    <description>Recent content in hello-world on Teckperry&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benvenuto su Teckperry</title>
+      <link>http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/posts/benvenuto-su-teckperry/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/posts/benvenuto-su-teckperry/</guid>
+      <description>Se stai leggendo questo articolo probabilmente è perchè mi hai scoperto per caso nello strano mondo del web. Ti ringrazio per il tempo che mi dedicherai, ti assicuro che non sarà troppo. Se hai voglia posso lasciarti entrare nel mio mondo.
+Hello World! Mi presento, io sono Luca, ho 25 anni e sono un programmatore. Da tantissimi anni il mio nome nel mondo del web è Teckperry. Il significato di questo nome e la sua storia li ho raccontati diverse volte negli ultimi mesi su @Twitch, quindi eviterò di raccontarla nuovamente.</description>
+    </item>
+    
+  </channel>
+</rss>

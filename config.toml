@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/"
 languageCode = "it"
 title = "Teckperry's Blog"
 theme = "archie"
@@ -51,3 +51,32 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[deployment]
+order = [".jpg$", ".gif$"]
+
+
+# [[deployment.targets]]
+# name = "teckperry.xyz"
+# URL = "s3://teckperry.xyz?region=eu-west-1"
+# cloudFrontDistributionID = <ID>
+# include = "**.html" # would only include files with ".html" suffix
+# exclude = "**.{jpg, png}" # would exclude files with ".jpg" or ".png" suffix
+
+# [[deployment.matchers]] configure behavior for files that match the Pattern.
+# Samples:
+
+# [[deployment.matchers]]
+#  Cache static assets for 1 year.
+# pattern = "^.+\\.(js|css|svg|ttf)$"
+# cacheControl = "max-age=31536000, no-transform, public"
+# gzip = true
+
+# [[deployment.matchers]]
+# pattern = "^.+\\.(png|jpg)$"
+# cacheControl = "max-age=31536000, no-transform, public"
+# gzip = false
+
+# [[deployment.matchers]]
+# pattern = "^.+\\.(html|xml|json)$"
+# gzip = true
