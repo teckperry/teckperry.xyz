@@ -226,6 +226,9 @@ justify-content: space-between;
   width: 100%;
   text-align: center;
 }
+.site-social {
+  text-align: center;
+}
 .tags li::before{
   content: "🏷 ";
 }
