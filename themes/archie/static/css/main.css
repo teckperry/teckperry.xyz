@@ -229,6 +229,12 @@ justify-content: space-between;
 .site-social {
   text-align: center;
 }
+.site-logo {
+  text-align: center;
+}
+.site-logo svg {
+  max-height: unset;
+}
 .tags li::before{
   content: "🏷 ";
 }
