@@ -4,6 +4,7 @@ title: "Sulle strade di Kanto"
 date: "2020-10-28"
 description: "Il mio primo approccio a Pokémon"
 slug: "sulle-strade-di-kanto"
+emoji: "🎮"
 tags: [ "blog", "pokemon", "videogames", "teckperry" ]
 ---
 

@@ -2,17 +2,30 @@
 <main>
 	<article>
 		<div class="title">
-			<h1 class="title">{{ .Title }}</h1>
-			<!-- Teckperry's update -->
-			<div class="meta">
-				{{ if isset .Params "author" }}
-					{{ $author := index .Site.Data.authors .Params.author }} 
-					{{ $author.name }}
-				{{ else }}
-					Unknown
-				{{ end }}
-			</div>
+			<h1 class="title">
+				{{ .Title }}
+			</h1>
+			<!-- Teckperry's update
 			<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+			-->
+			<div class="meta">
+				<span>
+					{{ if isset .Params "author" }}
+						{{ $author := index .Site.Data.authors .Params.author }} 
+						{{ $author.name }},
+					{{ else }}
+						Unknown,
+					{{ end }}
+				</span>
+				<span>
+					{{ div (sub .Lastmod.Unix 0) 1 }}, {{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}
+				</span>
+				<span>
+					{{ if isset .Params "emoji" }}
+						{{.Params.emoji}}
+					{{ end }}
+				</span>
+			</div>
 		</div>
 		{{ if isset .Params "tldr" }}
 		<div class="tldr">

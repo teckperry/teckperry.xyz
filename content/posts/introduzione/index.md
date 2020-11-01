@@ -4,6 +4,7 @@ title: "Benvenuto su Teckperry"
 date: "2020-10-08"
 description: "Listen to my story, this may be our last chance."
 slug: "benvenuto-su-teckperry"
+emoji: "✒️"
 tags: [ "blog", "hello-world", "videogames", "teckperry" ]
 ---
 
