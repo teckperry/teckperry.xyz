@@ -243,7 +243,7 @@ svg{
   max-height: 15px;
 }
 .soc:hover{
-  color: white;
+  fill: white;
 }
 .draft-label{ 
     color: var(--bordercl);
