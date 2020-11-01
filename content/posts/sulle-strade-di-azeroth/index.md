@@ -8,7 +8,7 @@ emoji: "🎮"
 tags: [ "blog", "world-of-warcraft", "videogames", "teckperry" ]
 ---
 
-> Questo articolo rappresenta un inserto dedicato a World of Warcraft del mio primissimo articolo di benvenuto. Se hai voglia di scoprire come questo gioco è entrato a far parte della mia vita e in che momento della mia evoluzione videoludica lo puoi trovare, rendendo così l'esperienza di lettura più completa, puoi collegarti qui *Benvenuti su Teckperry*
+> Questo articolo rappresenta un inserto dedicato a World of Warcraft del mio primissimo articolo di benvenuto. Se hai voglia di scoprire come questo gioco è entrato a far parte della mia vita e in che momento della mia evoluzione videoludica lo puoi trovare, rendendo così l'esperienza di lettura più completa, puoi collegarti qui: [Benvenuto su Teckperry]({{< ref "benvenuto-su-teckperry.md" >}})
 
 Tornai a casa e corsi a raccontare a mio fratello il gioco che avevo appena scoperto. Stranamente, lui non mi pose domande e si catapultò a fare una ricerca per capire di quale gioco io stessi parlando. Alla vista delle prime immagini anche lui rimase folgorato. Era tutto ciò che rappresentava la nostra passione più forte, quella dei mondi fantasy, racchiuso in un unico videogioco. 
 
