@@ -102,9 +102,9 @@ Ebbene sappi, caro amico mio, se mai leggerai questo articolo, che non l'ho mai 
 
 ## La scoperta
 
-Passò il tempo e la mia passione per l'informatica crebbe a dismisura. Attorno alla seconda media capii che i server di World of Warcraft in cui giocavamo possedevano degli amministratori ai quali non importava assolutamente di noi. Il loro unico scopo era quello di disturbare la nostra personalissima avventura. Decisi quindi di fondarne uno mio. Installai Navicat e costruii il mio primo database. Misi in piedi un server e invitai tutti i miei amici a giocare insieme a me (*seguii dei tutorial online*). Questa cosa non piacque molto a mio padre perchè la nostra connessione ed il nostro router non erano così prestanti come oggi. Alla quinta persona connessa tutto crollò insieme alla mia speranza di essere il nuovo founder del server di WoW più famoso d'Italia.
+Passò il tempo e la mia passione per l'informatica crebbe a dismisura. Attorno alla seconda media capii che i server di World of Warcraft in cui giocavamo possedevano degli amministratori ai quali non importava assolutamente di noi. Il loro unico scopo era quello di disturbare la nostra personalissima avventura (*grazie Bishop*). Decisi quindi di fondarne uno mio. Installai Navicat e costruii il mio primo database. Misi in piedi un server e invitai tutti i miei amici a giocare insieme a me (*seguii dei tutorial online*). Questa cosa non piacque molto a mio padre perchè la nostra connessione ed il nostro router non erano così prestanti come oggi. Alla quinta persona connessa tutto crollò insieme alla mia speranza di diventare il founder del server di WoW più famoso d'Italia.
 
-Capii a questo punto che la mia passione per i videogiochi si era trasformata. Le esperienze che avevo avuto non mi avevano formato come videogiocatore esperto bensì come **videogiocatore attento**.
+Capii a questo punto che la mia passione per i videogiochi si era trasformata. Le esperienze che avevo vissuto non mi avevano formato come videogiocatore esperto bensì come **videogiocatore attento**.
 
 Arrivato nella scelta delle scuole superiori decisi di intraprendere una carriera tecnica nell’ambito informatico con la speranza, un giorno, di arrivare ad avere abbastanza conoscenze da lanciarmi nel mercato videoludico come sviluppatore. Ebbene, conclusa la carriera scolastica scoprii che in realtà il massimo a cui ero riuscito ad arrivare era la costruizione di fantastici siti web. Per carità, non è poco, è un lavoro onesto, però le mie aspettative erano tutt’altre.
 
@@ -112,7 +112,7 @@ Decisi quindi di intraprendere la carriera universitaria sempre nello stesso amb
 
 Col tempo però ho cambiato idea. Nonostante le mie conoscenze mi permettessero a quel punto di lanciarmi nell’approfondimento dell’ambito del *game developing*, mi resi conto che non era realmente ciò che mi interessava nei videogiochi. Ciò che più apprezzo è in realtà **il vivere l’esperienza videoludica**. L’aspetto mentale, quello cognitivo, quello emotivo. Insomma, l’aspetto umano.
 
-Durante questo lungo periodo di studi ho iniziato a coltivare quindi la vera passione che ho inerenti all'ambito videoludico, una passione collaterale che solo negli ultimi anni ho deciso di chiamare **divulgazione**. Questa, in qualsiasi ambito venisse fatta, mi attraeva tantissimo. Scientifica, storica, esperienziale, videoludica. Scoprii nel tempo tantissimi canali YouTube (e nell’ultimo anno Twitch) che si occupavano di questo e che sono stati in grado di incrementare tantissimo la voglia di esprimere la passione che ci accomuna.
+Durante questo lungo periodo di studi ho iniziato a coltivare quindi la vera passione che posso connettere all'ambito videoludico, una passione collaterale che solo negli ultimi anni ho deciso di chiamare **divulgazione**. Questa, in qualsiasi ambito avvenisse, mi attraeva tantissimo. Scientifica, storica, esperienziale, videoludica. Scoprii nel tempo tantissimi canali YouTube (e nell’ultimo anno Twitch) che si occupavano di questo e che sono stati in grado di incrementare tantissimo la voglia di esprimere la passione che ci accomuna.
 
 Per onestà intellettuale, e per informarvi nel caso in cui non li conosceste, è importante che io citi questi canali di divulgazione in una piccola lista:
 
@@ -126,24 +126,28 @@ Per onestà intellettuale, e per informarvi nel caso in cui non li conosceste, �
 
 ## Teckperry
 
-Durante gli ultimi anni descritti ho affrontato molti altri momenti di mia crescita videoludica (come quando ho acquistato la prima console con i miei risparmi, oppure le ore di discussione con amici sul confronto tra mercato Indie e tripla A), ma ho deciso di non descriverli per darvi ora la possibilità di continuare a scoprirli insieme a me. Posso, arrivato al fondo di questo articolo, confermare che a differenza della mia infanzia in cui avevo bisogno di scoprire me stesso e le mie passioni **oggi sono certo di queste** e voglio continuare ad **alimentarle**, **migliorarle** e, il giorno dopo, **mettere tutto in discussione**, per continuare a **solidificare** il loro significato.
+Durante gli ultimi anni descritti ho affrontato molti altri momenti di crescita videoludica (come quando ho acquistato la prima console con i miei risparmi, oppure le ore di discussione con amici sul confronto tra mercato Indie e tripla A), ma ho deciso di non descriverli per darvi ora la possibilità di continuare a scoprirli insieme a me. Posso, arrivato al fondo di questo articolo, confermare che a differenza della mia infanzia in cui avevo bisogno di scoprire me stesso e le mie passioni **oggi sono certo di queste** e voglio continuare ad **alimentarle**, **migliorarle** e, il giorno dopo, **mettere tutto in discussione**, per continuare a **solidificare** il loro significato.
 
-Le storie che ho raccontato, le esperienze insieme a mio fratello e ai miei amici, l'aver imparato a cambiare idea e ricostruire il mio pensiero, l'aver visto evolvere il mercato videoludico attorno a me, l'aver scoperto finalmente ciò che mi appassiona del mercato videoludico, mi ha permesso di essere qui, oggi, così come sono.
+Le storie che ho raccontato, le esperienze insieme a mio fratello e ai miei amici, l'aver imparato a cambiare idea e ricostruire il mio pensiero, l'aver visto evolvere il mercato videoludico attorno a me, l'aver scoperto finalmente ciò che mi appassiona del mercato videoludico, mi hanno permesso di essere qui, oggi, così come sono.
 
-All'inizio dell'articolo vi ho detto che vi avrei voluto parlare prima della persona e poi del personaggio, ma arrivato alla conclusione di quest'ultimo posso dire con fermezza che l'uno e l'altro siano perfettamente miscelati. Non esiste modo di scindere i due me e io non voglio che accada. 
+All'inizio dell'articolo vi ho detto che vi avrei voluto parlare prima della persona e poi del personaggio, ma arrivato alla conclusione di quest'ultimo posso dire con fermezza che l'uno e l'altro siano perfettamente miscelati. Non esiste modo di scindere le mie due essenze e io non voglio che accada. 
 
 Siamo nel 2020 ormai e il mondo attorno a noi ci insegna giornalmente che il mercato videoludico **non è solo intrattenimento**, è anche **amicizia**, **apprendimento**, **crescita personale** e **crescita comunitaria**. Non c'è più bisogno di vergognarsi di essere dei videogiocatori e ognuno di noi può (e deve) essere consapevole delle possibilità che questo medium gli offre.
 
-Esistono decine di altri giochi che non ho citato e di cui vorrei parlarvi nel tempo, ed è proprio per questo motivo che ho deciso (un po' per noia, un po' per necessità) di costruirmi un'**identità digitale** durante la prima (e spero ultima) quarantena dovuta al Covid-19 durante quest'ultimo anno.
+Esistono decine di altri giochi che non ho citato e di cui vorrei parlarvi nel tempo, ed è proprio per questo motivo che ho deciso (un po' per noia, un po' per necessità) di costruirmi un'**identità digitale** durante la prima (e spero ultima) quarantena dovuta al Covid-19 nell'ultimo anno.
 
 Ad oggi posso suddividere il **Progetto Teckperry** in questi elementi:
 
-1. Un **canale Twitch**, un luogo aperto a tutti nel quale le persone potessero sentirsi libere di **esprimersi**, raccontare le **loro esperienze** e tramite queste **raccontare se stessi**.
+1. Un **canale Twitch**, un luogo aperto a tutti nel quale le persone possano sentirsi libere di **esprimersi**, raccontare le **loro esperienze** e tramite queste **raccontare se stessi**.
+
 2. Un **profilo Instagram** privato con il quale mi occupo di farvi arrivare i miei contenuti *on-the-line istantaneamente*, pubblicando **post** inerenti all'evoluzione del progetto.
-3. Un **canale Discord**, a cui può accedere chiunque ma comunque su richiesta, all'interno del quale i ragazzi della community possono condividere esperienze, trovare compagni di gioco e passare del tempo insieme.
-4. Questo **blog**, un luogo in cui potrò esprimere in modo più strutturato le mie opinioni su contenuti di qualsiasi tipo, dai videogiochi al cinema, dalla tecnologia alla programmazione.
 
+3. Un **canale Discord**, a cui può accedere chiunque su richiesta, all'interno del quale i ragazzi della community possono condividere esperienze, trovare compagni di gioco e passare del tempo insieme.
 
-Grazie a tutti ragazzi per aver letto questo lungo articolo. Spero che abbiate imparato a conoscermi un po' meglio.
+4. Questo **blog**, un luogo in cui potrò esprimere in modo più strutturato le mie opinioni su contenuti di qualsiasi tipo, dai videogiochi al cinema, dalla tecnologia alla programmazione, in modo soggettivo e, quando le conoscenze lo permettono, anche oggettivo.
 
-Benvenuti su Teckperry, benvenuti nel mio mondo.
+Siamo finalmente alla conclusione ufficiale di questo articolo. Vi ringrazio per avermi dedicato il vostro tempo e spero che la mia storia possa avervi fatto riaffiorare dei ricordi felici del vostro passato, magari avendovi anche strappato un sorriso. 
+
+Spero che abbiate imparato a conoscermi un po' meglio.
+
+**Benvenuti su Teckperry, benvenuti nel mio mondo.**
