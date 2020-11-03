@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pokemon on Teckperry&#39;s Blog</title>
-    <link>http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/tags/pokemon/</link>
+    <link>http://teckperry.xyz/tags/pokemon/</link>
     <description>Recent content in pokemon on Teckperry&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/tags/pokemon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://teckperry.xyz/tags/pokemon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sulle strade di Kanto</title>
-      <link>http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/posts/sulle-strade-di-kanto/</link>
+      <link>http://teckperry.xyz/posts/sulle-strade-di-kanto/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/posts/sulle-strade-di-kanto/</guid>
-      <description>Pokémon Rosso A scuola tutti i miei amici possedevano un Game Boy Color e passavano le giornate a parlare di un videogioco stranissimo in cui l&amp;rsquo;obiettivo era catturare con delle strane sfere tutti i mostri. Io purtroppo l&amp;rsquo;unica cosa che potevo fare era fingere di sapere di che cosa parlassero. Non possedevo un Game Boy e tutte le cose che sapevo arrivavano da un cartone animato che stranamente si chiamava allo stesso modo.</description>
+      <guid>http://teckperry.xyz/posts/sulle-strade-di-kanto/</guid>
+      <description>Questo articolo rappresenta un inserto dedicato a Pokémon legato al mio primissimo articolo di benvenuto. Se hai voglia di scoprire come questo gioco è entrato a far parte della mia vita e in che momento della mia evoluzione videoludica lo puoi trovare, rendendo così l&amp;rsquo;esperienza di lettura più completa, puoi collegarti qui: Benvenuto su Teckperry
+ Pokémon Rosso A scuola tutti i miei amici possedevano un Game Boy Color e passavano le giornate a parlare di un videogioco stranissimo in cui l&amp;rsquo;obiettivo era catturare con delle strane sfere tutti i mostri.</description>
     </item>
     
   </channel>

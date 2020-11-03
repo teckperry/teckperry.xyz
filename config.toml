@@ -1,4 +1,4 @@
-baseurl = "http://teckperry.xyz.s3-website-eu-west-1.amazonaws.com/"
+baseurl = "http://teckperry.xyz"
 languageCode = "it"
 title = "Teckperry's Blog"
 theme = "archie"
@@ -18,12 +18,12 @@ paginate=5
 [[params.social]]
 name = "Instagram"
 icon = "instagram"
-url = ""
+url = "https://www.instagram.com/teckperry"
 
 [[params.social]]
 name = "Twitch"
 icon = "twitch"
-url = ""
+url = "https://www.twitch.tv/teckperry"
 
 [[params.social]]
 name = "Discord"
