@@ -251,6 +251,9 @@ svg{
 .soc:hover{
   fill: white;
 }
+.soc{
+  padding-top: .3em;
+}
 .draft-label{ 
     color: var(--bordercl);
     text-decoration: none;

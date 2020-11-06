@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Teckperry&#39;s Blog</title>
-    <link>http://teckperry.xyz/tags/</link>
+    <link>https://teckperry.xyz/tags/</link>
     <description>Recent content in Tags on Teckperry&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://teckperry.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://teckperry.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://teckperry.xyz/tags/blog/</link>
+      <link>https://teckperry.xyz/tags/blog/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/tags/blog/</guid>
+      <guid>https://teckperry.xyz/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pokemon</title>
-      <link>http://teckperry.xyz/tags/pokemon/</link>
+      <link>https://teckperry.xyz/tags/pokemon/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/tags/pokemon/</guid>
+      <guid>https://teckperry.xyz/tags/pokemon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teckperry</title>
-      <link>http://teckperry.xyz/tags/teckperry/</link>
+      <link>https://teckperry.xyz/tags/teckperry/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/tags/teckperry/</guid>
+      <guid>https://teckperry.xyz/tags/teckperry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>videogames</title>
-      <link>http://teckperry.xyz/tags/videogames/</link>
+      <link>https://teckperry.xyz/tags/videogames/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/tags/videogames/</guid>
+      <guid>https://teckperry.xyz/tags/videogames/</guid>
       <description></description>
     </item>
     
     <item>
       <title>world-of-warcraft</title>
-      <link>http://teckperry.xyz/tags/world-of-warcraft/</link>
+      <link>https://teckperry.xyz/tags/world-of-warcraft/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/tags/world-of-warcraft/</guid>
+      <guid>https://teckperry.xyz/tags/world-of-warcraft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello-world</title>
-      <link>http://teckperry.xyz/tags/hello-world/</link>
+      <link>https://teckperry.xyz/tags/hello-world/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/tags/hello-world/</guid>
+      <guid>https://teckperry.xyz/tags/hello-world/</guid>
       <description></description>
     </item>
     

@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teckperry&#39;s Blog</title>
-    <link>http://teckperry.xyz/</link>
+    <link>https://teckperry.xyz/</link>
     <description>Recent content on Teckperry&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://teckperry.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://teckperry.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sulle strade di Kanto</title>
-      <link>http://teckperry.xyz/posts/sulle-strade-di-kanto/</link>
+      <link>https://teckperry.xyz/posts/sulle-strade-di-kanto/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/posts/sulle-strade-di-kanto/</guid>
+      <guid>https://teckperry.xyz/posts/sulle-strade-di-kanto/</guid>
       <description>Questo articolo rappresenta un inserto dedicato a Pokémon legato al mio primissimo articolo di benvenuto. Se hai voglia di scoprire come questo gioco è entrato a far parte della mia vita e in che momento della mia evoluzione videoludica lo puoi trovare, rendendo così l&amp;rsquo;esperienza di lettura più completa, puoi collegarti qui: Benvenuto su Teckperry
  Pokémon Rosso A scuola tutti i miei amici possedevano un Game Boy Color e passavano le giornate a parlare di un videogioco stranissimo in cui l&amp;rsquo;obiettivo era catturare con delle strane sfere tutti i mostri.</description>
     </item>
     
     <item>
       <title>Sulle strade di Azeroth</title>
-      <link>http://teckperry.xyz/posts/sulle-strade-di-azeroth/</link>
+      <link>https://teckperry.xyz/posts/sulle-strade-di-azeroth/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/posts/sulle-strade-di-azeroth/</guid>
+      <guid>https://teckperry.xyz/posts/sulle-strade-di-azeroth/</guid>
       <description>Questo articolo rappresenta un inserto dedicato a World of Warcraft del mio primissimo articolo di benvenuto. Se hai voglia di scoprire come questo gioco è entrato a far parte della mia vita e in che momento della mia evoluzione videoludica lo puoi trovare, rendendo così l&amp;rsquo;esperienza di lettura più completa, puoi collegarti qui: Benvenuto su Teckperry
  Tornai a casa e corsi a raccontare a mio fratello il gioco che avevo appena scoperto.</description>
     </item>
     
     <item>
       <title>Benvenuto su Teckperry</title>
-      <link>http://teckperry.xyz/posts/benvenuto-su-teckperry/</link>
+      <link>https://teckperry.xyz/posts/benvenuto-su-teckperry/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/posts/benvenuto-su-teckperry/</guid>
+      <guid>https://teckperry.xyz/posts/benvenuto-su-teckperry/</guid>
       <description>Se stai leggendo questo articolo probabilmente è perchè mi hai scoperto per caso nello strano mondo del web. Ti ringrazio per il tempo che mi dedicherai, ti assicuro che non sarà troppo. Prosegui con la lettura se ne hai voglia. Ti lascerò entrare nel mio mondo.
 Hello World! Mi presento, io sono Luca, ho 25 anni e sono un programmatore. Da tantissimi anni il mio nome nel mondo del web è Teckperry.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://teckperry.xyz/about/</link>
+      <link>https://teckperry.xyz/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://teckperry.xyz/about/</guid>
+      <guid>https://teckperry.xyz/about/</guid>
       <description></description>
     </item>
     

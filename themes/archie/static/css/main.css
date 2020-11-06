@@ -251,6 +251,16 @@ svg{
 .soc:hover{
   fill: white;
 }
+.soc{
+  padding-top: .3em;
+  padding-top: .1em;
+  padding-left: .1em;
+  padding-right: .1em;
+  font-size: 1.3em;
+}
+.soc-twitch{
+  font-size: 1.2em!important;
+}
 .draft-label{ 
     color: var(--bordercl);
     text-decoration: none;
