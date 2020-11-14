@@ -1,3 +1,4 @@
+googleAnalytics = "G-CVK51TGZ0B"
 baseurl = "https://teckperry.xyz/"
 languageCode = "it"
 title = "Teckperry's Blog"
@@ -5,8 +6,6 @@ theme = "archie"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-googleAnalytics = "G-CVK51TGZ0B"
 
 paginate=5
 
@@ -57,25 +56,25 @@ weight = 4
 [deployment]
 order = [".jpg$", ".gif$"]
 
-[privacy]
-  [privacy.disqus]
-    disable = false
-  [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = false
-    useSessionStorage = false
-  [privacy.instagram]
-    disable = false
-    simple = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = false
-    simple = false
-  [privacy.vimeo]
-    disable = false
-    enableDNT = false
-    simple = false
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = false
+# [privacy]
+#   [privacy.disqus]
+#     disable = false
+#   [privacy.googleAnalytics]
+#     anonymizeIP = false
+#     disable = false
+#     respectDoNotTrack = false
+#     useSessionStorage = false
+#   [privacy.instagram]
+#     disable = false
+#     simple = false
+#   [privacy.twitter]
+#     disable = false
+#     enableDNT = false
+#     simple = false
+#   [privacy.vimeo]
+#     disable = false
+#     enableDNT = false
+#     simple = false
+#   [privacy.youtube]
+#     disable = false
+#     privacyEnhanced = false
