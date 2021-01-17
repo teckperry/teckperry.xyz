@@ -2,14 +2,14 @@
 author: "teckperry"
 title: "Analisi della crisi Cyberpunkiana"
 date: "2020-12-15"
-description: "Quando l'onestà è seconda alle vendite"
+description: "La dura lotta tra l'oggettivo e il soggettivo"
 slug: "analisi-della-crisi-cyberpunkiana"
 emoji: "fas fa-gamepad"
 tags: [ "blog", "cyberpunk2077", "videogames", "teckperry" ]
 ---
 
-## Excursus: La delusione
-Sono molti anni ormai che, ogni qual volta venga annunciato un videogioco in grado di creare in me un hype molto forte, insieme a quest'ultimo si genera un'enorme paura per il risultato reale. E' successo con Kingdom Hearts 3, con Final Fantasy XV, con Pokémon Spada e Scudo e con molti altri prodotti videoludici.
+## Excursus: La delusione di Mass Effect
+Sono molti anni ormai che, ogni qual volta venga annunciato un videogioco in grado di creare in me un hype molto forte, insieme a quest'ultimo si genera un'enorme paura per il risultato reale. E' successo con Kingdom Hearts 3, con Final Fantasy XV, con Pokémon Spada e Scudo e con molti altri prodotti videoludici precedenti.
 
 Voglio portarvi però un esempio che ancora oggi su di me lascia il segno e non molto distante da noi a livello temporale. Parliamo di **Mass Effect**.
 
@@ -42,27 +42,43 @@ Iniziai il gioco, mi divertii grazie ad un *combat system* comunque evoluto risp
 
 Nonostante tutto, il pensiero di rigiocare a quel gioco oggi, mi fa venire l'orticaria. Ci proverò, ma sono ancora scottato.
 
-## La passione
+## Come ho conosciuto Cyberpunk 2077
 
-Quando nel 2012 venne annunciato un nuovo gioco sci-fi/cyberpunk, con onestà, io non prestai attenzione. L'annuncio poteva anche essere intrigante, ma non ero a conoscenza dell'importanza che CD Projekt RED avrebbe avuto nel mercato videoludico negli anni a venire.
+Quando nel 2012 venne annunciato un nuovo gioco sci-fi/cyberpunk da CD Projekt RED all'E3, con onestà, io non prestai attenzione. L'annuncio poteva anche essere intrigante, ma non ero a conoscenza dell'importanza che questa *software house* avrebbe avuto nel panorama videoludico negli anni a venire.
 
 Nel 2016 ebbi l'opportunità di mettere mano a **The Witcher 3** ad un anno dalla sua uscita e, dopo tante (*veramente tante*) ore di gioco, rimasi folgorato dalla sua capacità di dare importanza ad ogni aspetto del videogioco stesso, comprese le *quest* secondarie. E' questo che rende per me un gioco veramente valido. Non contano soltanto trama, aspetto tecnico, combat system etc... ma quanta attenzione gli sviluppatori dedicano all'immersività del giocatore dando spazio ad ogni singolo personaggio della saga, ogni singola missione, ogni singolo elemento scenico.
 
-Qui nacque in me una passione sfrenata per questa azienda. Iniziai a seguirla sui social, a seguire notizie da loro rilasciate, nella speranza che questa strana *IP* a cui stavano lavorando prendesse forma. Si erano ufficialmente conquistati la mia attenzione.
+Qui nacque in me una passione sfrenata per questa azienda. Iniziai a seguirla sui social, a seguire notizie da loro rilasciate, nella speranza che questa strana *intellectual property* a cui stavano lavorando prendesse forma. Si erano ufficialmente conquistati la mia attenzione.
 
 All'E3 del 2018 l'azienda mostrò un trailer di **Cyberpunk 2077** e fu, per tutti i fan (di vecchia data e più giovani, come me) una bella ventata di aria fresca. Da quel momento le dichiarazioni fatte e le piccole informazioni che si riuscivano ad ottenere erano sempre oro colato per ogni singola persona attenta all'evoluzione del prodotto.
 
-CD Projekt RED fu attenta nel centellinare ogni singola informazione, allo scopo di mantenere lo spettatore sul filo dell'hype. Peccato che quel filo sia in grado di essere tagliente come una lama.
+CD Projekt RED fu attenta nel centellinare ogni singola informazione, allo scopo di mantenere lo spettatore sul filo dell'hype. 
 
-Arrivò poi il 2019. Quello fu l'anno dell'E3 seguito in perfetta sincronia grazie alla redazione di Everyeye e le live su Twitch. Fu grazie all'unione tra Everyeye e Pokémon Millennium (al tempo Cydonia e Chiara) che decisi di non perdermi neanche un secondo di quell'evento. Me la ricordo bene l'aria che si respirava tra noi fan dell'azienda polacca. Eravamo in trepida attesa. Quando arrivò il loro momento mostrarono un nuovo trailer durante la conferenza Xbox, annunciando un fantastico *Keanu Reeves* di spicco all'interno della narrazione del gioco stesso. Fu subito un'esplosione di applausi e di urla. Lui si presentò sul palco e tutto fu magico. Io stesso, dal divano di casa mia, mi alzai urlando. Fu così che venne annunciata la data di uscita: **16 aprile 2020**. I mesi successivi all'annuncio furono colmi di speculazioni nelle riviste di settore e forum dedicati su cosa sarebbe stato possibile fare nel mondo di gioco. L'azienda aveva parlato di un gioco in cui la città era viva, un ambiente con cui l'interazione non si fermava al singolo passante per strada, ma un luogo in cui ogni azione del giocatore, anche quando questo è impegnato in una missione principale, ha un impatto ingente su tutto il resto. 
+> Peccato che quel filo sia in grado di essere tagliente come una lama, a volte.
+
+Arrivò poi il 2019. Quello fu l'anno dell'E3 seguito in perfetta sincronia grazie alla redazione di Everyeye e le live su Twitch. Fu grazie all'unione tra Everyeye e Pokémon Millennium (al tempo Cydonia e Chiara) che decisi di non perdermi neanche un secondo di quell'evento. Me la ricordo bene l'aria che si respirava tra noi fan dell'azienda polacca. Eravamo in trepida attesa. Quando arrivò il loro momento mostrarono un nuovo trailer durante la conferenza Xbox, annunciando un fantastico *Keanu Reeves* di spicco all'interno della narrazione del gioco stesso. Fu subito un'esplosione di applausi e di urla. Lui si presentò sul palco e tutto fu magico. Io stesso, dal divano di casa mia, mi alzai urlando. Fu così che venne annunciata la data di uscita: **16 aprile 2020**. I mesi successivi all'annuncio furono colmi di speculazioni nei media di settore su cosa sarebbe stato possibile fare nel mondo di gioco. L'azienda aveva parlato di un gioco in cui la città era viva, un ambiente con cui l'interazione non si fermava al singolo passante per strada, ma un luogo in cui ogni azione del giocatore, anche quando questo è impegnato in una missione principale, ha un impatto ingente su tutto il resto. 
 
 Intorno a gennaio dello stesso anno l'azienda però annunciò un rinvio dell'uscita del gioco, da aprile a **settembre 2020**. Non mi preoccupai e, onestamente, trovai insensato il pensiero estremamente critico del web nei confronti di una posticipazione di un prodotto videoludico così imponente. Sono sempre stato dell'idea che è meglio rimandare piuttosto che uscire sul mercato in maniera disastrosa. (*visti i recenti sviluppi, non siete d'accordo anche voi?*)
 
-Il Covid poi ci colpì tra capo e collo e l'E3 2020 purtroppo non si poteva più tenere. Il mio pensiero in quel momento era: ok, allora forse CD Projekt RED, come quasi tutte le aziende nei mesi a venire, avrà deciso di rimandare l'uscita del nuovo prodotto per la paura del problema Covid (visto che comunque se ne parlava già da un mesetto abbondante) e questo mi rincuorò. Onestamente parlando, anche se il gioco fosse stato realmente pronto ad aprile 2020, vogliamo davvero rilasciare un prodotto videoludico in piena pandemia? Economicamente parlando sarebbe comunque stato disastroso. Il reminder sul mio Google Calendar fu quindi spostato a settembre 2020, più precisamente il **17**.
+Il Covid poi ci colpì tra capo e collo e l'E3 2020 purtroppo non era più fattibile. Il mio pensiero in quel momento era: ok, allora forse CD Projekt RED, come quasi tutte le aziende nei mesi a venire, avrà deciso di rimandare l'uscita del nuovo prodotto per la paura del problema Covid (visto che comunque se ne parlava già da un mesetto abbondante) e questo mi rincuorò. Onestamente parlando, anche se il gioco fosse stato realmente pronto ad aprile 2020, vogliamo davvero rilasciare un prodotto videoludico in piena pandemia? Economicamente parlando sarebbe comunque stato disastroso. Il reminder sul mio Google Calendar fu quindi spostato a settembre 2020, più precisamente il **17**.
 
-Durante quei mesi CD Projekt RED decise di applicare una strategia di comunicazione molto aggressiva, mostrando continuamente immagini e video del gioco stesso dentro una rubrica chiamata **Night City Wire**, nonchè innondando i propri social di dichiarazioni, che forse avrebbe potuto evitare.
+Durante quei mesi CD Projekt RED decise di applicare una strategia di comunicazione molto aggressiva, mostrando continuamente immagini e video del gioco stesso dentro una rubrica chiamata **Night City Wire**, innondando inoltre i propri social di dichiarazioni, che forse avrebbe potuto evitare.
 
-Arrivato settembre arrivò una nuova notizia. Il gioco sarebbe stato posticipato nuovamente, e questa volta con una conclusione definitiva dell'attesa, a **dicembre 2020**. Qui inizia il mio timore.
+Arrivato settembre arrivò una nuova notizia. Il gioco sarebbe stato posticipato nuovamente, e questa volta con una conclusione definitiva dell'attesa, a **dicembre 2020**. Qui inizia il mio timore, ma continuo comunque ad essere fiducioso per il risultato finale.
 
-Due rilanci del prodotto nonostante tutte queste dichiarazioni, questi video, queste immagini. Mi sembra tanto come quando qualcuno che ti sta palesemente dicendo una bugia cerca di riempirla di dettagli così da renderla verosimile.
+## Cosa penso di Cyberpunk 2077
+Tra una serie di zone colorate invalicabili, il Covid in casa mia, un Natale ed un Capodanno da non organizzare perchè assolutamente incerti, il 10 dicembre 2020 arrivò.
 
+Scaricai il gioco a partire dalle 01:00 di notte e non lo toccai. Ero assolutamente intenzionato a portarlo il giorno dopo in live insieme alla community perchè ero assolutamente esaltato all'idea di poter condividere la mia voglia di giocare a questo gioco insieme alle altre persone.
+
+Così feci. Il giorno 11 dicembre 2020, di sera, feci partire la live e iniziai a giocare. Per due sere consecutive giocai in live, senza interruzioni. Ma con molti problemi, purtroppo.
+
+Il gioco sembrava voler andare solo quando lo decideva lui. Il mio computer è molto prestante, ma mentre ero in live lui non aveva intenzione di girare correttamente. La prima live fu perfetta, la seconda disastrosa. Decisi di smettere di portarlo in live, forse il mio computer non era adatto a gestire live e gioco? Eppure stavo dentro le specifiche tecnice.
+
+Decisi di abbandonare le live di Cyberpunk e giocarlo in solitaria. Non volevo rovinarmi l'esperienza. Sarò onesto, fu la scelta più sensata per me.
+
+-- Racconto cosa penso del gioco, cosa ho provato, quanto mi è piaciuto riportando il testo del post di instagram
+
+## Analisi della crisi Cyberpunkiana
+
+-- Provo ad analizzare il gioco dal punto di vista comunicativo, degli errori di sviluppo, vecchie notizie come "siamo sorpresi da come gira bene sulla old-gen" e ultime notizie come "ci scusiamo" e "problemi durante gli sviluppi, forse hanno iniziato a sviluppare nel 2016", ma soprattutto metto un focus sui fan di tutto il mondo e sulla troppa pressione che il mercato mette sulle case di sviluppo "se sgarri, ti seghiamo le gambe" è il motto dei tre quarti dei videogiocatori, forse quindi è anche colpa nostra?! NB: Dare comunque principalmente la colpa a loro, con un pensiero sul "rimandare ora gli chiudeva il mercato old-gen", ma tanto comunque non è andata così bene

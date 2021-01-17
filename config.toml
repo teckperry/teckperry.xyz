@@ -1,4 +1,4 @@
-googleAnalytics = "G-CVK51TGZ0B"
+# googleAnalytics = "G-CVK51TGZ0B"
 baseurl = "https://teckperry.xyz/"
 languageCode = "it"
 title = "Teckperry's Blog"
@@ -9,13 +9,14 @@ pygmentscodefencesguesssyntax = true
 
 paginate=5
 
+# Theme Params
 [params]
-	mode="light" # color-mode → light,dark or auto
+  # color-mode → light, dark or auto
+	mode="light"
 	featherIconsCDN=true
 	subtitle = "0100 1000 0100 0101 0100 1100 0100 1100 0100 1111 0101 0111 0100 1111 0101 0010 0100 1100 0100 0100 0010 0001"
 
 # Social Tags
-
 [[params.social]]
 name = "Instagram"
 icon = "instagram"
@@ -32,7 +33,6 @@ icon = "discord"
 url = ""
 
 # Main menu Items
-
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -43,9 +43,14 @@ name = "Posts"
 url = "/posts"
 weight = 2
 
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 3
+
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Links"
+url = "/links"
 weight = 3
 
 [[menu.main]]
@@ -53,28 +58,39 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
+# [[menu.main]]
+# name = "Cookies"
+# url = "/cookies"
+# weight = 5
+
+# [[menu.main]]
+# name = "Privacy"
+# url = "/privacy"
+# weight = 6
+
 [deployment]
 order = [".jpg$", ".gif$"]
 
-# [privacy]
-#   [privacy.disqus]
-#     disable = false
-#   [privacy.googleAnalytics]
-#     anonymizeIP = false
-#     disable = false
-#     respectDoNotTrack = false
-#     useSessionStorage = false
-#   [privacy.instagram]
-#     disable = false
-#     simple = false
-#   [privacy.twitter]
-#     disable = false
-#     enableDNT = false
-#     simple = false
-#   [privacy.vimeo]
-#     disable = false
-#     enableDNT = false
-#     simple = false
-#   [privacy.youtube]
-#     disable = false
-#     privacyEnhanced = false
+# Privacy Settings
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false

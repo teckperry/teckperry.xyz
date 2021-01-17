@@ -181,7 +181,7 @@ footer {
 }
 
 time {
-  color: grey;
+  color: gray;
 }
 
 /* Posts */
@@ -335,4 +335,8 @@ color: royalblue ;
 content: 'Markdown';
 background: royalblue;
 color: whitesmoke ;
+}
+.emoji {
+  font-size: 1.2em;
+  color: var(--hovercolor);
 }

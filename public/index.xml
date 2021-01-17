@@ -46,5 +46,15 @@ Hello World! Mi presento, io sono Luca, ho 25 anni e sono un programmatore. Da t
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://teckperry.xyz/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teckperry.xyz/cookies/</guid>
+      <description>Cookies I cookie sono piccoli file di testo che vengono memorizzati sul computer utilizzato per visitare i siti web. Sono ampiamente utilizzati per far funzionare i siti web.
+Utilizzo di cookie da parte di Teckperry&amp;rsquo;s Blog Quando si visita il sito https://teckperry.xyz vengono raccolte informazioni standard di accesso e dettagli del modello di comportamento dei visitatori per ottenere informazioni quali, ad esempio, il numero di visitatori delle diverse sezioni del sito.</description>
+    </item>
+    
   </channel>
 </rss>

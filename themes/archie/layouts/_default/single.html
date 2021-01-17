@@ -1,6 +1,7 @@
 {{ define "main" }}
 <main>
 	<article>
+		{{ if isset .Params "title" }}
 		<div class="title">
 			<h1 class="title">
 				{{ .Title }}
@@ -9,24 +10,25 @@
 			<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 			-->
 			<div class="meta">
+				{{ if isset .Params "author" }}
 				<span>
-					{{ if isset .Params "author" }}
-						{{ $author := index .Site.Data.authors .Params.author }} 
-						{{ $author.name }},
-					{{ else }}
-						Unknown,
-					{{ end }}
+					{{ $author := index .Site.Data.authors .Params.author }} 
+					{{ $author.name }},
 				</span>
+				{{ end }}
+				{{ if isset .Params "date" }}
 				<span>
 					<a href="https://www.convert-unix-timestamp.com/unixtime/{{(sub .Lastmod.Unix 0)}}" target="_blank">{{ div (sub .Lastmod.Unix 0) 1 }}</a>, {{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}
 				</span>
+				{{ end }}
+				{{ if isset .Params "emoji" }}
 				<span>
-					{{ if isset .Params "emoji" }}
-						{{.Params.emoji}}
-					{{ end }}
+					<i class="emoji {{.Params.emoji}}"></i>
 				</span>
+				{{ end }}
 			</div>
 		</div>
+		{{ end }}
 		{{ if isset .Params "tldr" }}
 		<div class="tldr">
 			<strong>tl;dr:</strong>
