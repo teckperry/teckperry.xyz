@@ -4,7 +4,7 @@ title: "Sulle strade di Azeroth"
 date: "2020-10-20"
 description: "Il mio primo approccio a World of Warcraft"
 slug: "sulle-strade-di-azeroth"
-emoji: "🎮"
+emoji: "fas fa-gamepad"
 tags: [ "blog", "world-of-warcraft", "videogames", "teckperry" ]
 ---
 
